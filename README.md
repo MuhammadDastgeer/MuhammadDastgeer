@@ -23,6 +23,11 @@
 </div>
 
 ###
+<h2><i>My GitHub Stats</i></h2>
+<p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=MuhammadDastgeer&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="MuhammadDastgeer" height="139" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadDastgeer&layout=compact&border_radius=0&theme=dark" alt="MuhammadDastgeer" height="139" />
+</p>
 
 <h1 align="center">HI👋 HOW ARE YOU ?<br>WELLCOME MY PROFILE</h1>
 
